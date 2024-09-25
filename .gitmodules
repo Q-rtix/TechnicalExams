@@ -1,0 +1,6 @@
+[submodule "TreewInc"]
+	path = TreewInc
+	url = https://github.com/Q-rtix/TWI-TechnicalExam.git
+[submodule "avangenio-exam"]
+	path = avangenio-exam
+	url = https://github.com/Q-rtix/avangenio-test.git
